@@ -1,0 +1,23 @@
+{
+  "tokenStandard": "nft",
+  "number": 10,
+  "symbol": "NB",
+  "sellerFeeBasisPoints": 100,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "AMhpeYVRnS7keouFMa1RzhMYXN4JbdyBZiGaWU9r93oH",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "nft_storage",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDQ2ZTE3NzA2MDdFYzczODM1OWU5OERmYmM1YjNmMTNjOTdGMzVCN2YiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4NzgwMDYwOTczMSwibmFtZSI6IldFQjNERVYifQ.nPh_eY46rEjFyYuU-OAXsJrzRPhzw4Pij4mSP2ZeVV0",
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null,
+  "maxEditionSupply": null
+}
